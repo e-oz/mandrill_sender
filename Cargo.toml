@@ -2,5 +2,10 @@
 name = "mandrill_sender"
 version = "0.1.0"
 authors = ["OZ <normandiggs@gmail.com>"]
+description = "Mandrill client to send emails"
+license = "MIT"
+repository = "https://github.com/e-oz/mandrill_sender"
 
 [dependencies]
+rustc-serialize = "0.3.22"
+reqwest = "0.1"
