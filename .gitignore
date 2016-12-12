@@ -1,0 +1,9 @@
+target
+Cargo.lock
+.idea
+.vscode
+/feeds_copier.iml
+src/*.toml
+dump.rdb
+feeds_copier.iml
+
